@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_image_counter/static/css/main.31d6cfe0.css",
+    "main.js": "/react_image_counter/static/js/main.f315a696.js",
+    "static/media/star.png": "/react_image_counter/static/media/star.1caba760a381e734eecb.png",
+    "index.html": "/react_image_counter/index.html",
+    "main.f315a696.js.map": "/react_image_counter/static/js/main.f315a696.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f315a696.js"
+  ]
+}
